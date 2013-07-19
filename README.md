@@ -1,7 +1,6 @@
-
-      	    BackLauncher for Minecraft
+      	 BackLauncher for Minecraft
 ====================================================
-    Minecraft Launcher which will do a backup of 
+    Minecraft Launcher will do a backup of 
            your worlds before to play
 
       Version........: 0.1
